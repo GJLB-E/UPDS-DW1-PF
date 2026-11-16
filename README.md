@@ -1,0 +1,4 @@
+Pagina de Restaurante
+-Una pagina web diseñada y programada que esta dirigido para un restaurante.
+-Poder saber sobre un restaurante y los que quieran visitar ese restaurante puedan saber sobre este restauraente antes de ir, sobre su menu, sus ubicaciones de socursales, contacto hacia los restaurantes y posibles apliaciones que se utilizan para pedir comida a ese restaurante.
+-Permite que las personas que quieran ir a ese restuante tengan conocimiento sobre los posibles platos que sirven ahi y sobre donde se ubican esos restaurantes, dando solucion a que los posibles clientes tengan conocimiento sobre el restaurante antes de ir.
